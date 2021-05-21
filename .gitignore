@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/kotlin/ios/main/
+/build/classes/kotlin/jvm/main/
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+*/build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+convention-plugins/local.properties
+xcuserdata/
+Pods/
